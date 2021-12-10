@@ -23,10 +23,10 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => 'RENOLIT SE',
     'constraints' => [
         'depends' => [
-            'static_info_tables' => '6.7.0-6.9.99',
+            'static_info_tables' => '6.7.0-11.5.99',
             'static_info_tables_cs' => '6.7.0-6.9.99',
             'php' => '7.2.0-7.4.99',
-            'typo3' => '8.7.0-10.4.99',
+            'typo3' => '8.7.0-11.5.99',
         ],
         'conflicts' => [],
         'suggests' => [],
